@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week1\\Assignment1.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B05302C-0606-4008-A768-0B960C6EE6A6}|Assignment1.4\\Assignment1.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week1\\assignment1.4\\assignment1.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B05302C-0606-4008-A768-0B960C6EE6A6}|Assignment1.4\\Assignment1.4.csproj|solutionrelative:assignment1.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week1\\Assignment1.4\\Assignment1.4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1.4\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week1\\Assignment1.4\\Assignment1.4\\Program.cs",
+              "RelativeToolTip": "Assignment1.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:40:58.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
