@@ -1,0 +1,15 @@
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.exe
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.deps.json
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.runtimeconfig.json
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.dll
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.pdb
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.AssemblyInfoInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.AssemblyInfo.cs
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.sourcelink.json
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.dll
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\refint\ReadFile.dll
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.pdb
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.genruntimeconfig.cache
+C:\Users\wheel\MSSA-CCAD14\Misc\ReadFile\ReadFile\obj\Debug\net8.0\ref\ReadFile.dll
