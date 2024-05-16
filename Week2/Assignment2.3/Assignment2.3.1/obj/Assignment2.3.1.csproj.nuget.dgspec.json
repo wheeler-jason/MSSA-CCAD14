@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wheel\\MSSA-CCAD14\\Misc\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj": {}
+    "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wheel\\MSSA-CCAD14\\Misc\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj": {
+    "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wheel\\MSSA-CCAD14\\Misc\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj",
+        "projectUniqueName": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj",
         "projectName": "Assignment2.3.1",
-        "projectPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Misc\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj",
+        "projectPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Assignment2.3\\Assignment2.3.1\\Assignment2.3.1.csproj",
         "packagesPath": "C:\\Users\\wheel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Misc\\Assignment2.3\\Assignment2.3.1\\obj\\",
+        "outputPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Assignment2.3\\Assignment2.3.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wheel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
