@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9081579F-7072-4498-9E14-CCED5EA4DC20}|Challenge1\\Challenge1.csproj|c:\\users\\wheel\\mssa-ccad14\\week2\\week2challenges\\challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9081579F-7072-4498-9E14-CCED5EA4DC20}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C3A7E3-64FC-43E4-A8B1-5D50ED6EF61A}|Challenge4\\Challenge4.csproj|c:\\users\\wheel\\mssa-ccad14\\week2\\week2challenges\\challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C3A7E3-64FC-43E4-A8B1-5D50ED6EF61A}|Challenge4\\Challenge4.csproj|solutionrelative:challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41530E9B-5392-4DEB-8EB7-48D5A1739414}|Challenge2\\Challenge2.csproj|c:\\users\\wheel\\mssa-ccad14\\week2\\week2challenges\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41530E9B-5392-4DEB-8EB7-48D5A1739414}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge2\\Program.cs",
+              "RelativeToolTip": "Challenge2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:56:26.275Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge1\\Program.cs",
-              "RelativeDocumentMoniker": "Challenge1\\Program.cs",
-              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge1\\Program.cs",
-              "RelativeToolTip": "Challenge1\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge4\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge4\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week2\\Week2Challenges\\Challenge4\\Program.cs",
+              "RelativeToolTip": "Challenge4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T19:45:34.913Z",
+              "WhenOpened": "2024-05-16T20:45:33.101Z",
               "EditorCaption": ""
             }
           ]
