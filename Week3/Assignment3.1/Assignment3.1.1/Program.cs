@@ -19,13 +19,11 @@ namespace Assignment3._1._1
         public static string ReturnEvenNumbers()
         {
             StringBuilder sb = new StringBuilder();
-            for (int i = 2; i <= 98; i++)
+            // if we increment by 2 every time, we don't have to 
+            // do modulo math 
+            for (int i = 2; i <= 98; i+=2)
             {
-                // if this condition is true, then i is an even number
-                if (i % 2 == 0)
-                {
-                    sb.Append($"{i} ");
-                }
+                sb.Append($"{i} ");
             }
             
             return sb.ToString();
