@@ -12,7 +12,7 @@
     {
         static void Main(string[] args)
         {
-            int[] sampleArray = [0, 2, 1, 1, 9, 1, 1];
+            int[] sampleArray = [0, 2, 0, 1, 9, 0, 1];
             Console.WriteLine("Input: ");
             foreach (int i in sampleArray)
             {
