@@ -30,6 +30,7 @@
     {
         static void Main(string[] args)
         {
+            // Get user input and populate the matrices
             Console.WriteLine("Input the size of the square matrix (less than 5): ");
             int size = Convert.ToInt32(Console.ReadLine());
             int[,] matrix1 = new int[size,size];
@@ -55,6 +56,7 @@
                 }
             }
 
+            // Print the matrices
             Console.WriteLine("The first matrix is: ");
             PrintMatrix(matrix1);
             Console.WriteLine("The second matrix is: ");
