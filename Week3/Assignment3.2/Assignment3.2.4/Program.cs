@@ -32,8 +32,7 @@ namespace Assignment3._2._4
 
             for (int i = 0; i < nums.Length; i++)
             {
-                Iteration iteration = (Iteration)i;
-                Console.WriteLine($"Enter the {iteration} number: ");
+                Console.WriteLine($"Enter the {(Iteration)i} number: ");
                 nums[i] = Convert.ToInt32(Console.ReadLine());
             }
             
