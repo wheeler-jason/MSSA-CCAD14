@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.4\\assignment3.4\\assignment3.4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|solutionrelative:assignment3.4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.4\\assignment3.4\\assignment3.4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|solutionrelative:assignment3.4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.4\\assignment3.4\\assignment3.4\\assignment3.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|solutionrelative:assignment3.4\\assignment3.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.4\\assignment3.4\\assignment3.4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{829E6412-A0E8-41C4-AFF6-4F825449D58B}|Assignment3.4\\Assignment3.4.csproj|solutionrelative:assignment3.4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3.4",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\Assignment3.4.csproj",
+              "RelativeDocumentMoniker": "Assignment3.4\\Assignment3.4.csproj",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\Assignment3.4.csproj",
+              "RelativeToolTip": "Assignment3.4\\Assignment3.4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T12:56:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment3.4\\App.xaml",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\App.xaml",
+              "RelativeToolTip": "Assignment3.4\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T16:08:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment3.4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment3.4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T16:04:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment3.4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.4\\Assignment3.4\\Assignment3.4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment3.4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:04:32.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.3.2_mvvm\\assignment3.3.2_mvvm\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|solutionrelative:assignment3.3.2_mvvm\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.3.2_mvvm\\assignment3.3.2_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|solutionrelative:assignment3.3.2_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.3.2_mvvm\\assignment3.3.2_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|solutionrelative:assignment3.3.2_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|c:\\users\\wheel\\mssa-ccad14\\week3\\assignment3.3.2_mvvm\\assignment3.3.2_mvvm\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A070073-3EE9-4355-86F9-CFD28B84E771}|Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM.csproj|solutionrelative:assignment3.3.2_mvvm\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment3.3.2_MVVM\\Student.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\Student.cs",
+              "RelativeToolTip": "Assignment3.3.2_MVVM\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:03:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment3.3.2_MVVM\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\StudentViewModel.cs",
+              "RelativeToolTip": "Assignment3.3.2_MVVM\\StudentViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:02:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment3.3.2_MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment3.3.2_MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T13:48:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment3.3.2_MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week3\\Assignment3.3.2_MVVM\\Assignment3.3.2_MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment3.3.2_MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:48:08.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
