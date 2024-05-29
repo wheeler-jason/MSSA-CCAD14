@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|c:\\users\\wheel\\mssa-ccad14\\week4\\assignment4.2\\assignment4.2\\assignment4.2\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|solutionrelative:assignment4.2\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\assignment4.2\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|solutionrelative:assignment4.2\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|c:\\users\\wheel\\mssa-ccad14\\week4\\assignment4.2\\assignment4.2\\assignment4.2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|solutionrelative:assignment4.2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|c:\\users\\wheel\\mssa-ccad14\\week4\\assignment4.2\\assignment4.2\\assignment4.2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|solutionrelative:assignment4.2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\assignment4.2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98D440FA-229F-464F-8BDE-A9110A28633C}|Assignment4.2\\Assignment4.2.csproj|solutionrelative:assignment4.2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "Assignment4.2\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\TeacherForm.cs",
+              "RelativeToolTip": "Assignment4.2\\TeacherForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:36:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "Assignment4.2\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "Assignment4.2\\TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:04:47.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Assignment4.2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\LoginForm.cs",
+              "RelativeToolTip": "Assignment4.2\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:16:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment4.2\\Student.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\Student.cs",
+              "RelativeToolTip": "Assignment4.2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:02:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Assignment4.2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Assignment4.2\\Assignment4.2\\Assignment4.2\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Assignment4.2\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:00:34.662Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
