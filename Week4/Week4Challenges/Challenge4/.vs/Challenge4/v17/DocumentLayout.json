@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Week4Challenges\\Challenge4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA71196-FBE7-4FD8-8B6F-FB3238B3ECE3}|Challenge4.3\\Challenge4.3.csproj|c:\\users\\wheel\\mssa-ccad14\\week4\\week4challenges\\challenge4\\challenge4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA71196-FBE7-4FD8-8B6F-FB3238B3ECE3}|Challenge4.3\\Challenge4.3.csproj|solutionrelative:challenge4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB695C70-1C2C-4258-A930-4561605C6892}|Challenge4.2\\Challenge4.2.csproj|c:\\users\\wheel\\mssa-ccad14\\week4\\week4challenges\\challenge4\\challenge4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB695C70-1C2C-4258-A930-4561605C6892}|Challenge4.2\\Challenge4.2.csproj|solutionrelative:challenge4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Week4Challenges\\Challenge4\\Challenge4.2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge4.2\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Week4Challenges\\Challenge4\\Challenge4.2\\Program.cs",
+              "RelativeToolTip": "Challenge4.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:56:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Week4Challenges\\Challenge4\\Challenge4.3\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge4.3\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week4\\Week4Challenges\\Challenge4\\Challenge4.3\\Program.cs",
+              "RelativeToolTip": "Challenge4.3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:19:53.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
