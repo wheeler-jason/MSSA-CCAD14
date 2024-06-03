@@ -1,0 +1,15 @@
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\bin\Debug\net8.0\Assignment5.1.2.exe
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\bin\Debug\net8.0\Assignment5.1.2.deps.json
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\bin\Debug\net8.0\Assignment5.1.2.runtimeconfig.json
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\bin\Debug\net8.0\Assignment5.1.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\bin\Debug\net8.0\Assignment5.1.2.pdb
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.AssemblyInfoInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.AssemblyInfo.cs
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.csproj.CoreCompileInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.sourcelink.json
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\refint\Assignment5.1.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.pdb
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\Assignment5.1.2.genruntimeconfig.cache
+C:\Users\wheel\MSSA-CCAD14\Week4\Week4Challenges\Assignment5.1\Assignment5.1.2\obj\Debug\net8.0\ref\Assignment5.1.2.dll
