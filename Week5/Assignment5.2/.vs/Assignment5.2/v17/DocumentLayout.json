@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDD4791-C949-4337-BB8E-5B849A53EE7E}|Assignment5.2.4\\Assignment5.2.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week5\\assignment5.2\\assignment5.2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDD4791-C949-4337-BB8E-5B849A53EE7E}|Assignment5.2.4\\Assignment5.2.4.csproj|solutionrelative:assignment5.2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9243ECCE-5845-40A9-88D3-664ABB7CB8E8}|Assignment5.2.3\\Assignment5.2.3.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\assignment5.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9243ECCE-5845-40A9-88D3-664ABB7CB8E8}|Assignment5.2.3\\Assignment5.2.3.csproj|solutionrelative:assignment5.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5.2.4\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.4\\Program.cs",
+              "RelativeToolTip": "Assignment5.2.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:42:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5.2.3\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.3\\Program.cs",
+              "RelativeToolTip": "Assignment5.2.3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:40:32.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
