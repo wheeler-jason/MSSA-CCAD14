@@ -10,6 +10,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Assignment5.1.1");
+            Console.WriteLine(IsPalindrome_Recursive(1213));
         }
 
         public static bool IsPalindrome_Optimal(int x)
