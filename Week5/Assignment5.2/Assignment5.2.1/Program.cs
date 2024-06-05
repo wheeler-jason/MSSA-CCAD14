@@ -10,14 +10,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(GetLastWordLength("Hello World!"));
+            Console.WriteLine(GetLastWordLength("Hello World!   "));
         }
 
         public static int GetLastWordLength(string s)
         {
+            string str = s.TrimEnd(' ');
+            int i = str.Length - 1;
             int result = 0;
-            int i = s.Length - 1;
-            while (i >= 0 && s[i] != ' ') 
+            while (i >= 0 && str[i] != ' ') 
             {
                 result++;
                 i--;

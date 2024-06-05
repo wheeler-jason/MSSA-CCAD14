@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCDD4791-C949-4337-BB8E-5B849A53EE7E}|Assignment5.2.4\\Assignment5.2.4.csproj|c:\\users\\wheel\\mssa-ccad14\\week5\\assignment5.2\\assignment5.2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCDD4791-C949-4337-BB8E-5B849A53EE7E}|Assignment5.2.4\\Assignment5.2.4.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\assignment5.2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDD4791-C949-4337-BB8E-5B849A53EE7E}|Assignment5.2.4\\Assignment5.2.4.csproj|solutionrelative:assignment5.2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9243ECCE-5845-40A9-88D3-664ABB7CB8E8}|Assignment5.2.3\\Assignment5.2.3.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\assignment5.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9243ECCE-5845-40A9-88D3-664ABB7CB8E8}|Assignment5.2.3\\Assignment5.2.3.csproj|c:\\users\\wheel\\mssa-ccad14\\week5\\assignment5.2\\assignment5.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9243ECCE-5845-40A9-88D3-664ABB7CB8E8}|Assignment5.2.3\\Assignment5.2.3.csproj|solutionrelative:assignment5.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294D6DB2-E0FC-458A-B6B2-6B69721C13FF}|Assignment5.2.1\\Assignment5.2.1.csproj|C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\assignment5.2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294D6DB2-E0FC-458A-B6B2-6B69721C13FF}|Assignment5.2.1\\Assignment5.2.1.csproj|solutionrelative:assignment5.2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5.2.1\\Program.cs",
+              "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.1\\Program.cs",
+              "RelativeToolTip": "Assignment5.2.1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:36:07.822Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "Assignment5.2.4\\Program.cs",
               "ToolTip": "C:\\Users\\wheel\\MSSA-CCAD14\\Week5\\Assignment5.2\\Assignment5.2.4\\Program.cs",
               "RelativeToolTip": "Assignment5.2.4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wA4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:42:23.569Z",
               "EditorCaption": ""
@@ -43,7 +59,8 @@
               "RelativeToolTip": "Assignment5.2.3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T17:40:32.424Z"
+              "WhenOpened": "2024-06-04T17:40:32.424Z",
+              "EditorCaption": ""
             }
           ]
         }
