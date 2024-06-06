@@ -18,78 +18,32 @@
     {
         static void Main(string[] args)
         {
-            int[] testFlowerBed = [0, 0, 1, 0, 0];
-            Console.WriteLine(PlantNonAdjacentFlowers(testFlowerBed, 1));
+            int[] testFlowerBed = [0];
+            Console.WriteLine(CanPlaceFlowers(testFlowerBed, 0));
         }
 
-        public static bool PlantNonAdjacentFlowers(int[] flowerbed, int n)
+        public static bool CanPlaceFlowers(int[] flowerbed, int n)
         {
-            int i = 0;
-            int flowersPlantedCounter = 0;
+            int count = 0;
 
-            // if there is only a single zero in the array
-            if (flowerbed.Length == 1 && n == 1 && flowerbed[0] == 0 )
+            for (int i = 0; i < flowerbed.Length; i++)
             {
-                return true;
-            }
-
-            while (i < flowerbed.Length)
-            {
+                // Check if the current plot is empty.
                 if (flowerbed[i] == 0)
                 {
-                    // if we're at the start of the array
-                    if (i == 0)
+                    // Check if the left and right plots are empty.
+                    bool emptyLeftPlot = (i == 0) || (flowerbed[i - 1] == 0);
+                    bool emptyRightPlot = (i == flowerbed.Length - 1) || (flowerbed[i + 1] == 0);
+
+                    // If both plots are empty, we can plant a flower here.
+                    if (emptyLeftPlot && emptyRightPlot)
                     {
-                        // if the next element is also a 0, then plant the flower
-                        if (flowerbed[i + 1] == 0)
-                        {
-                            flowerbed[i] = 1;
-                            flowersPlantedCounter++;
-                            i++;
-                        }
-                        else
-                        {
-                            i++;
-                        }
+                        flowerbed[i] = 1;
+                        count++;
                     }
-                    // if we're at the end of the array
-                    else if (i == flowerbed.Length-1)
-                    {
-                        // if the previous element is also a 0, then plant the flower
-                        if (flowerbed[i-1] == 0)
-                        {
-                            flowerbed[i] = 1;
-                            flowersPlantedCounter++;
-                            i++;
-                        }
-                        else
-                        {
-                            i++;
-                        }
-                    }
-                    // if we're in the middle of the array
-                    else if (i > 0 && i < flowerbed.Length-1)
-                    {
-                        // if we have zeroes on both sides
-                        if (flowerbed[i-1] == 0 && flowerbed[i+1] == 0)
-                        {
-                            flowerbed[i] = 1;
-                            flowersPlantedCounter++;
-                            i++;
-                        } 
-                        else
-                        {
-                            i++;
-                        }
-                    }
-                }
-                else
-                {
-                    i++;
                 }
             }
-
-            return flowersPlantedCounter >= n;
+            return count >= n;
         }
     }
 }
