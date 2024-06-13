@@ -1,0 +1,15 @@
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\bin\Debug\net8.0\Assignment6.4.exe
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\bin\Debug\net8.0\Assignment6.4.deps.json
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\bin\Debug\net8.0\Assignment6.4.runtimeconfig.json
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\bin\Debug\net8.0\Assignment6.4.dll
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\bin\Debug\net8.0\Assignment6.4.pdb
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.AssemblyInfoInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.AssemblyInfo.cs
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.csproj.CoreCompileInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.sourcelink.json
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.dll
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\refint\Assignment6.4.dll
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.pdb
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\Assignment6.4.genruntimeconfig.cache
+C:\Users\wheel\MSSA-CCAD14\Week6\Assignment6.4\Assignment6.4\obj\Debug\net8.0\ref\Assignment6.4.dll
