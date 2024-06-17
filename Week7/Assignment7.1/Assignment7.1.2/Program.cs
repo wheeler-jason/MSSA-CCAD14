@@ -1,4 +1,6 @@
-﻿namespace Assignment7._1._2
+﻿using System.Text;
+
+namespace Assignment7._1._2
 {
     /* You are given two strings word1 and word2. 
      * Merge the strings by adding letters in alternating order, 
@@ -15,12 +17,13 @@
 
         public static string MergeAlternately(string word1, string word2)
         {
-            string result = "";
+            StringBuilder result = new StringBuilder();
+
             int i = 0;
             while (i < word1.Length && i < word2.Length)
             {
-                result += word1[i];
-                result += word2[i];
+                result.Append(word1[i]);
+                result.Append(word2[i]);
                 i++;
             }
 
@@ -28,15 +31,15 @@
             // depending on which string is longer
             while (i < word1.Length)
             {
-                result += word1[i];
+                result.Append(word1[i]);
                 i++;
             }
             while (i < word2.Length)
             {
-                result += word2[i];
+                result.Append(word2[i]);
                 i++;
             }
-            return result;
+            return result.ToString();
         }
     }
 }
