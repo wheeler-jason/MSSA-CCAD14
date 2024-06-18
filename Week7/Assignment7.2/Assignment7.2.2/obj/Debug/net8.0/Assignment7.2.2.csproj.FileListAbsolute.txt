@@ -1,0 +1,15 @@
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\bin\Debug\net8.0\Assignment7.2.2.exe
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\bin\Debug\net8.0\Assignment7.2.2.deps.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\bin\Debug\net8.0\Assignment7.2.2.runtimeconfig.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\bin\Debug\net8.0\Assignment7.2.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\bin\Debug\net8.0\Assignment7.2.2.pdb
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.AssemblyInfoInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.AssemblyInfo.cs
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.csproj.CoreCompileInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.sourcelink.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\refint\Assignment7.2.2.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.pdb
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\Assignment7.2.2.genruntimeconfig.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.2\Assignment7.2.2\obj\Debug\net8.0\ref\Assignment7.2.2.dll
