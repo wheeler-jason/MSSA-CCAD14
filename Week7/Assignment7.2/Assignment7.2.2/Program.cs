@@ -11,8 +11,10 @@
         {
             Console.WriteLine("Before reversal: ");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("After reversal: ");
+            Console.WriteLine("After ReverseVowels(): ");
             Console.WriteLine(ReverseVowels("Hello, World!"));
+            Console.WriteLine("After ReverseVowelsUsingStack(): ");
+            Console.WriteLine(ReverseVowelsUsingStack("Hello, World!"));
         }
 
         public static string ReverseVowels(string s)
@@ -39,6 +41,31 @@
                 else
                 {
                     left++;
+                }
+            }
+
+            return new string(str);
+        }
+
+        public static string ReverseVowelsUsingStack(string s)
+        {
+            char[] str = s.ToCharArray();
+            Stack<char> vowels = new Stack<char>();
+
+            for(int i = 0; i < str.Length; i++)
+            {
+                if ("aeiouAEIOU".Contains(str[i]))
+                {
+                    vowels.Push(str[i]);
+                    str[i] = '0';
+                }
+            }
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == '0')
+                {
+                    str[i] = vowels.Pop();
                 }
             }
 

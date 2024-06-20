@@ -1,0 +1,15 @@
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\bin\Debug\net8.0\Assignment7.3.exe
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\bin\Debug\net8.0\Assignment7.3.deps.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\bin\Debug\net8.0\Assignment7.3.runtimeconfig.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\bin\Debug\net8.0\Assignment7.3.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\bin\Debug\net8.0\Assignment7.3.pdb
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.AssemblyInfoInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.AssemblyInfo.cs
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.csproj.CoreCompileInputs.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.sourcelink.json
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\refint\Assignment7.3.dll
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.pdb
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\Assignment7.3.genruntimeconfig.cache
+C:\Users\wheel\MSSA-CCAD14\Week7\Assignment7.3\Assignment7.3\obj\Debug\net8.0\ref\Assignment7.3.dll

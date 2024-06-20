@@ -12,6 +12,7 @@
             // Test cases
             Console.WriteLine(IsAnagram("anagram", "nagaram")); // True
             Console.WriteLine(IsAnagram("rat", "car")); // False
+            Console.WriteLine(IsAnagram("rat", "rat")); // True -- should duplicates count as anagrams?
 
         }
 
